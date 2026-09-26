@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "sounds": [
+    {
+      "id": "adhan_1",
+      "version": 1,
+      "type": "adhan",
+      "names": {
+        "en": "Adhan (Full)",
+        "ta": "அதான் (முழு)",
+        "ar": "الأذان (كامل)",
+        "si": "අදාන් (සම්පූර්ණ)"
+      },
+      "android": "adhan_1.ogg",
+      "androidDurationSeconds": 195,
+      "ios": "ios/adhan_1.caf",
+      "iosDurationSeconds": 29
+    },
+    {
+      "id": "adhan_2",
+      "version": 1,
+      "type": "adhan",
+      "names": {
+        "en": "Adhan (Full) 2",
+        "ta": "அதான் (முழு) 2",
+        "ar": "الأذان (كامل) 2",
+        "si": "අදාන් (සම්පූර්ණ) 2"
+      },
+      "android": "adhan_2.ogg",
+      "androidDurationSeconds": 274,
+      "ios": "ios/adhan_2.caf",
+      "iosDurationSeconds": 29
+    },
+    {
+      "id": "notify",
+      "version": 1,
+      "type": "tone",
+      "names": {
+        "en": "Notify Tone",
+        "ta": "அறிவிப்பு ஒலி",
+        "ar": "نغمة التنبيه",
+        "si": "දැනුම්දීම් ටෝන්"
+      },
+      "android": "notify.ogg",
+      "androidDurationSeconds": 3,
+      "ios": "ios/notify.caf",
+      "iosDurationSeconds": 3
+    }
+  ]
+}
