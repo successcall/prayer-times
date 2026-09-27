@@ -6,10 +6,10 @@
       "version": 1,
       "type": "adhan",
       "names": {
-        "en": "Adhan (Full)",
-        "ta": "அதான் (முழு)",
-        "ar": "الأذان (كامل)",
-        "si": "අදාන් (සම්පූර්ණ)"
+        "en": "Adhan ",
+        "ta": "அதான்",
+        "ar": "الأذان",
+        "si": "අදාන්"
       },
       "android": "adhan_1.ogg",
       "androidDurationSeconds": 195,
@@ -21,10 +21,10 @@
       "version": 1,
       "type": "adhan",
       "names": {
-        "en": "Adhan (Full) 2",
-        "ta": "அதான் (முழு) 2",
-        "ar": "الأذان (كامل) 2",
-        "si": "අදාන් (සම්පූර්ණ) 2"
+        "en": "Adhan  2",
+        "ta": "அதான் 2",
+        "ar": "الأذان 2",
+        "si": "අදාන් 2"
       },
       "android": "adhan_2.ogg",
       "androidDurationSeconds": 274,
