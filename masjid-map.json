@@ -1645,7 +1645,7 @@
   {"i":"w419290856","la":7.1784045,"lo":80.5008289,"n":"Hemmathagama Grand Mosque","z":"Zone11","d":"Kegalle"},
   {"i":"w419787419","la":6.9476025,"lo":80.0121902,"n":"Raxapana Jumma Mosque","l":{"ta":"ரக்ஸபான ஜும்மா மஸ்ஜித்"},"z":"Zone1","d":"Gampaha"},
   {"i":"w421303656","la":8.7474052,"lo":80.4306682,"n":"Mosque","z":"Zone3","d":"Vavuniya"},
-  {"i":"w422090118","la":5.9656292,"lo":80.4220058,"z":"Zone12","d":"Matara"},
+  {"i":"w422090118","la":5.9656292,"lo":80.4220058,"n":"Kapthurai Mosque","a":"Galle Road, Kapparatota, Weligama","z":"Zone12","d":"Matara"},
   {"i":"w423051295","la":7.6834473,"lo":81.7368979,"n":"Central College Mosque","z":"Zone8","d":"Batticaloa"},
   {"i":"w450927535","la":7.7724524,"lo":81.6040162,"n":"Aatrankarai Mohaideen Jumma Mosque","a":"Kathiyar Road, Eravur","z":"Zone8","d":"Batticaloa"},
   {"i":"w450939534","la":7.7773661,"lo":81.6076647,"n":"MASJITHUL NOORUSHALAAM","z":"Zone8","d":"Batticaloa"},
