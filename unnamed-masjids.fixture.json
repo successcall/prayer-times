@@ -1,0 +1,209 @@
+﻿[
+    {
+        "i":  "n12118351122",
+        "la":  8.2937565,
+        "lo":  80.7125391,
+        "z":  "Zone5",
+        "d":  "Anuradhapura",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=8.2937565,80.7125391",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=8.2937565\u0026mlon=80.7125391#map=18/8.2937565/80.7125391"
+    },
+    {
+        "i":  "n13900767176",
+        "la":  6.8889103,
+        "lo":  81.8191797,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.8889103,81.8191797",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.8889103\u0026mlon=81.8191797#map=18/6.8889103/81.8191797"
+    },
+    {
+        "i":  "n13987760290",
+        "la":  8.36905,
+        "lo":  81.0031498,
+        "z":  "Zone9",
+        "d":  "Trincomalee",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=8.36905,81.0031498",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=8.36905\u0026mlon=81.0031498#map=18/8.36905/81.0031498"
+    },
+    {
+        "i":  "n4001242432",
+        "la":  7.2264442,
+        "lo":  81.829251,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.2264442,81.829251",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.2264442\u0026mlon=81.829251#map=18/7.2264442/81.829251"
+    },
+    {
+        "i":  "n4718021293",
+        "la":  6.6292281,
+        "lo":  80.7232913,
+        "z":  "Zone11",
+        "d":  "Ratnapura",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.6292281,80.7232913",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.6292281\u0026mlon=80.7232913#map=18/6.6292281/80.7232913"
+    },
+    {
+        "i":  "n7085319508",
+        "la":  7.0801783,
+        "lo":  80.671811,
+        "z":  "Zone7",
+        "d":  "Nuwara Eliya",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.0801783,80.671811",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.0801783\u0026mlon=80.671811#map=18/7.0801783/80.671811"
+    },
+    {
+        "i":  "n84048511",
+        "la":  6.044276,
+        "lo":  80.2204785,
+        "z":  "Zone12",
+        "d":  "Galle",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.044276,80.2204785",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.044276\u0026mlon=80.2204785#map=18/6.044276/80.2204785"
+    },
+    {
+        "i":  "w1078731556",
+        "la":  6.8508668,
+        "lo":  80.2639561,
+        "z":  "Zone11",
+        "d":  "Ratnapura",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.8508668,80.2639561",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.8508668\u0026mlon=80.2639561#map=18/6.8508668/80.2639561"
+    },
+    {
+        "i":  "w1172643869",
+        "la":  8.4469553,
+        "lo":  81.2655005,
+        "z":  "Zone9",
+        "d":  "Trincomalee",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=8.4469553,81.2655005",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=8.4469553\u0026mlon=81.2655005#map=18/8.4469553/81.2655005"
+    },
+    {
+        "i":  "w1185930088",
+        "la":  7.2209898,
+        "lo":  80.5680329,
+        "z":  "Zone7",
+        "d":  "Kandy",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.2209898,80.5680329",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.2209898\u0026mlon=80.5680329#map=18/7.2209898/80.5680329"
+    },
+    {
+        "i":  "w1228209129",
+        "la":  7.2139423,
+        "lo":  81.8603818,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.2139423,81.8603818",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.2139423\u0026mlon=81.8603818#map=18/7.2139423/81.8603818"
+    },
+    {
+        "i":  "w1228999010",
+        "la":  7.3505684,
+        "lo":  81.8513376,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.3505684,81.8513376",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.3505684\u0026mlon=81.8513376#map=18/7.3505684/81.8513376"
+    },
+    {
+        "i":  "w1248732199",
+        "la":  8.7250761,
+        "lo":  81.1709043,
+        "z":  "Zone9",
+        "d":  "Trincomalee",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=8.7250761,81.1709043",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=8.7250761\u0026mlon=81.1709043#map=18/8.7250761/81.1709043"
+    },
+    {
+        "i":  "w286534335",
+        "la":  7.3499561,
+        "lo":  81.7970357,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.3499561,81.7970357",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.3499561\u0026mlon=81.7970357#map=18/7.3499561/81.7970357"
+    },
+    {
+        "i":  "w451002522",
+        "la":  7.785213,
+        "lo":  81.6094588,
+        "z":  "Zone8",
+        "d":  "Batticaloa",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.785213,81.6094588",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.785213\u0026mlon=81.6094588#map=18/7.785213/81.6094588"
+    },
+    {
+        "i":  "w452183693",
+        "la":  7.6601476,
+        "lo":  81.4872459,
+        "z":  "Zone8",
+        "d":  "Batticaloa",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.6601476,81.4872459",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.6601476\u0026mlon=81.4872459#map=18/7.6601476/81.4872459"
+    },
+    {
+        "i":  "w533697340",
+        "la":  6.0353784,
+        "lo":  80.2314988,
+        "z":  "Zone12",
+        "d":  "Galle",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.0353784,80.2314988",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.0353784\u0026mlon=80.2314988#map=18/6.0353784/80.2314988"
+    },
+    {
+        "i":  "w536904313",
+        "la":  6.0358784,
+        "lo":  80.2200472,
+        "z":  "Zone12",
+        "d":  "Galle",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.0358784,80.2200472",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.0358784\u0026mlon=80.2200472#map=18/6.0358784/80.2200472"
+    },
+    {
+        "i":  "w539254447",
+        "la":  6.8821634,
+        "lo":  81.7645876,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.8821634,81.7645876",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.8821634\u0026mlon=81.7645876#map=18/6.8821634/81.7645876"
+    },
+    {
+        "i":  "w566860185",
+        "la":  6.0687965,
+        "lo":  80.2147383,
+        "z":  "Zone12",
+        "d":  "Galle",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=6.0687965,80.2147383",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=6.0687965\u0026mlon=80.2147383#map=18/6.0687965/80.2147383"
+    },
+    {
+        "i":  "w721537389",
+        "la":  7.6194216,
+        "lo":  80.2451652,
+        "z":  "Zone6",
+        "d":  "Kurunegala",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.6194216,80.2451652",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.6194216\u0026mlon=80.2451652#map=18/7.6194216/80.2451652"
+    },
+    {
+        "i":  "w786395485",
+        "la":  7.2281733,
+        "lo":  81.8508264,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.2281733,81.8508264",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.2281733\u0026mlon=81.8508264#map=18/7.2281733/81.8508264"
+    },
+    {
+        "i":  "w928312621",
+        "la":  7.3365164,
+        "lo":  81.850105,
+        "z":  "Zone8",
+        "d":  "Ampara",
+        "googleMapsUrl":  "https://www.google.com/maps/search/?api=1\u0026query=7.3365164,81.850105",
+        "openStreetMapUrl":  "https://www.openstreetmap.org/?mlat=7.3365164\u0026mlon=81.850105#map=18/7.3365164/81.850105"
+    }
+]
