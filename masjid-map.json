@@ -1,6 +1,6 @@
 {
- "version": "202610171816",
- "lastUpdated": "2026-10-17T18:16:01.422838Z",
+ "version": "202610171851",
+ "lastUpdated": "2026-10-17T18:51:02.608934Z",
  "masjids": [
   {"s":"im","i":"7.209456,81.723827","la":7.2094559,"lo":81.7238268,"n":"10/a Mohideen Jummah mosque","z":"Zone8","d":"Ampara"},
   {"s":"im","i":"7.200615,81.718712","la":7.2006148,"lo":81.718712,"n":"11A Village Jummah Mosque","z":"Zone8","d":"Ampara"},
@@ -1400,7 +1400,7 @@
   {"s":"sc","i":"badulla-boragas-masjid","la":6.9078466,"lo":80.8407263,"n":"Boragas Masjid","z":"Zone10","d":"Badulla"},
   {"s":"sc","i":"badulla-deenpura-mosque","la":6.9522894,"lo":81.0237692,"n":"Deenpura Mosque","a":"Ambawaka, Peradeniya-Badulla-Chenkaladi Hwy","z":"Zone10","d":"Badulla"},
   {"s":"sc","i":"badulla-galauda-jummah-mosque","la":7.0448027,"lo":80.9838858,"n":"Galauda Jummah Mosque","a":"Galauda-Kandaketiya Rd","z":"Zone10","d":"Badulla"},
-  {"s":"sc","i":"badulla-jumma-masjid-haputale-rd","la":6.806097,"lo":80.9585086,"n":"JUMMA MASJID (Haputale rd)","z":"Zone10","d":"Badulla"},
+  {"s":"sc","i":"badulla-diyatalawa-jumma-masjid","la":6.806097,"lo":80.9585086,"n":"Diyatalawa Jumma Masjid","a":"Diyatalawa","z":"Zone10","d":"Badulla"},
   {"s":"sc","i":"badulla-kandurudeka-jummah-masjid","la":6.8634666,"lo":80.9095519,"n":"Kandurudeka Jummah Masjid","a":"Kandurudeka Rd","z":"Zone10","d":"Badulla"},
   {"s":"sc","i":"badulla-masjidun-noor-haputale","la":6.7656576,"lo":80.9523747,"n":"Masjidun noor haputale","a":"Haputale","z":"Zone10","d":"Badulla"},
   {"s":"sc","i":"badulla-minan-masjid","la":6.8413781,"lo":80.9058863,"n":"Minan Masjid","z":"Zone10","d":"Badulla"},
