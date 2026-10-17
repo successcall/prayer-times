@@ -1,6 +1,6 @@
 {
- "version": "202610161829",
- "lastUpdated": "2026-10-16T18:29:59.391732Z",
+ "version": "202610171816",
+ "lastUpdated": "2026-10-17T18:16:01.422838Z",
  "masjids": [
   {"s":"im","i":"7.209456,81.723827","la":7.2094559,"lo":81.7238268,"n":"10/a Mohideen Jummah mosque","z":"Zone8","d":"Ampara"},
   {"s":"im","i":"7.200615,81.718712","la":7.2006148,"lo":81.718712,"n":"11A Village Jummah Mosque","z":"Zone8","d":"Ampara"},
@@ -952,8 +952,7 @@
   {"s":"im","i":"7.656340,81.726497","la":7.6563396,"lo":81.7264972,"n":"Minan Jumma Masjid","z":"Zone8","d":"Batticaloa"},
   {"s":"im","i":"8.954877,79.999258","la":8.9548769,"lo":79.9992582,"n":"Minukkan Mosque, மினுக்கன்","z":"Zone4","d":"Mannar"},
   {"s":"im","i":"7.717645,80.242480","la":7.7176448,"lo":80.2424804,"n":"Minuwangeta Masjid","z":"Zone6","d":"Kurunegala"},
-  {"s":"im","i":"6.831168,80.988705","la":6.8311676,"lo":80.9887048,"n":"Mirahawatta jumma moseq","z":"Zone10","d":"Badulla"},
-  {"s":"im","i":"6.866844,80.945240","la":6.8668443,"lo":80.9452399,"n":"Mirahawatta jummah masjid","z":"Zone10","d":"Badulla"},
+  {"s":"im","i":"6.866844,80.945240","la":6.8668443,"lo":80.9452399,"n":"Mirahawatta Jummah Masjid","a":"Mirahawatta, Badulla","z":"Zone10","d":"Badulla"},
   {"s":"im","i":"8.473235,81.172368","la":8.4732345,"lo":81.172368,"n":"Misbah Masjid","z":"Zone9","d":"Trincomalee"},
   {"s":"im","i":"7.772623,81.607762","la":7.7726235,"lo":81.6077619,"n":"Misbah Masjith","z":"Zone8","d":"Batticaloa"},
   {"s":"im","i":"8.573510,81.231910","la":8.5735102,"lo":81.2319097,"n":"Mohaideen Jumma Masjid (est.1826) மொஹிதீன் ஜும்மா பள்ளி","z":"Zone9","d":"Trincomalee"},
