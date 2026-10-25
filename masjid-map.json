@@ -1,6 +1,6 @@
 {
- "version": "202610251204",
- "lastUpdated": "2026-10-25T12:04:18.721762Z",
+ "version": "202610251206",
+ "lastUpdated": "2026-10-25T12:06:08.110910Z",
  "masjids": [
   {"s":"im","i":"7.209456,81.723827","la":7.2094559,"lo":81.7238268,"n":"10/a Mohideen Jummah mosque","a":"Wangamam, Eragama","z":"Zone8","d":"Ampara","j":1},
   {"s":"im","i":"7.200615,81.718712","la":7.2006148,"lo":81.718712,"n":"11A Village Jummah Mosque","z":"Zone8","d":"Ampara","j":1},
@@ -159,7 +159,7 @@
   {"s":"im","i":"7.417179,81.812416","la":7.4171791,"lo":81.8124165,"n":"As Salam Masjid","a":"Kalmunai","z":"Zone8","d":"Ampara"},
   {"s":"im","i":"8.606151,81.171571","la":8.606151,"lo":81.1715713,"n":"Ash Sheih Masjid","a":"Trincomalee","z":"Zone9","d":"Trincomalee"},
   {"s":"im","i":"6.905123,79.875187","la":6.9051228,"lo":79.875187,"n":"Ashraff Mawatha Jumma Masjid","a":"Ashraff Mawatha, Colombo 00700","z":"Zone1","d":"Colombo","j":1},
-  {"s":"im","i":"7.365305,80.617968","la":7.3653047,"lo":80.6179678,"n":"Asna Central Masjid","a":"A9, Akurana","z":"Zone7","d":"Kandy","c":true},
+  {"s":"im","i":"7.365305,80.617968","la":7.3653,"lo":80.61797,"n":"Asna Central Masjid","a":"A9, Akurana","z":"Zone7","d":"Kandy","c":true},
   {"s":"im","i":"7.499791,80.339990","la":7.4997908,"lo":80.3399897,"n":"Aswedduma Jumma Mosque","a":"Aswedduma - Uda Digana Road, Kurunegala","z":"Zone6","d":"Kurunegala","j":1},
   {"s":"im","i":"6.568266,79.968561","la":6.5682656,"lo":79.9685614,"n":"Ath Thaqwa Jumma Masjid ( Jamiuth Thowheed Jumma Masjid - Kalutara )","a":"697 Galle Rd, Kalutara 12000","z":"Zone1","d":"Kalutara","j":1},
   {"s":"im","i":"6.695602,79.997200","la":6.6956022,"lo":79.9972002,"n":"Atulugama Grand Jummah Masjid","a":"492 Atulugama Rd, Bandaragama","z":"Zone1","d":"Kalutara","j":1,"w":1},
