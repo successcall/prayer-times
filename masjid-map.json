@@ -1,6 +1,6 @@
 {
- "version": "202610251416",
- "lastUpdated": "2026-10-25T14:16:34.290197Z",
+ "version": "202610310050",
+ "lastUpdated": "2026-10-31T00:50:00.000000Z",
  "masjids": [
   {"s":"im","i":"7.209456,81.723827","la":7.2094559,"lo":81.7238268,"n":"10/a Mohideen Jummah mosque","a":"Wangamam, Eragama","z":"Zone8","d":"Ampara","j":1,"g":"ChIJ2crCOdUR5ToRHJngD6msfa0"},
   {"s":"im","i":"7.200615,81.718712","la":7.2006148,"lo":81.718712,"n":"11A Village Jummah Mosque","z":"Zone8","d":"Ampara","j":1,"g":"ChIJeaceMu8R5ToR7Z7fJhGZJCc"},
@@ -2542,7 +2542,7 @@
   {"s":"gm","i":"ChIJ5x9rVQAV4zoRSCvnlORxqjE","la":7.3239493,"lo":80.3851729,"n":"Masjidh An-Noor (Jerusalem Mosque)","a":"Hureemaluwa Rd, Rambukkana","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJnUXsBiEb4zoRknevoCJyAf0","la":7.2120547,"lo":80.2095909,"n":"Masjidh Ismail","a":"Warakapola","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJe4ZjBgAT4zoRfNqZzFGQrYM","la":7.2461126,"lo":80.4458641,"n":"MASJIDH MUNEERA GAMANDENIYA CHENA","a":"Gamandeniya","z":"Zone11","d":"Kegalle"},
-  {"s":"gm","i":"ChIJdehJAfc94zoRAMeKs84et24","la":7.3487836,"lo":80.3071956,"n":"Masjidh Umar Khathab","a":"Denagamuwa Rd, Bandawa","z":"Zone11","d":"Kegalle"},
+  {"s":"gm","i":"ChIJdehJAfc94zoRAMeKs84et24","la":7.3487836,"lo":80.3071956,"n":"Masjidh Umar Khathab","a":"Denagamuwa Rd, Bandawa, Polgahawela","z":"Zone6","d":"Kurunegala"},
   {"s":"gm","i":"ChIJ-USESQBr4zoR0SMTpU1Gip8","la":7.2584836,"lo":80.46109,"n":"Masjidhul Ajlaan","a":"Fathima Rice Mill, Ganethanna, Road, Mawanella","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJ3ZtiuFVr4zoRN17YKXXKTBQ","la":7.2528861,"lo":80.4590235,"n":"Masjidhul Dheeniya","a":"Mawanella","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJ7WlNSgAT4zoRh30NEx2KwG0","la":7.2487025,"lo":80.4538112,"n":"Masjidhul Hiqma Mosque","a":"Mawanella","z":"Zone11","d":"Kegalle"},
