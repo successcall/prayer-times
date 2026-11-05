@@ -1,6 +1,6 @@
 {
- "version": "202610310050",
- "lastUpdated": "2026-10-31T00:50:00.000000Z",
+ "version": "202611050212",
+ "lastUpdated": "2026-11-05T02:12:00.000000Z",
  "masjids": [
   {"s":"im","i":"7.209456,81.723827","la":7.2094559,"lo":81.7238268,"n":"10/a Mohideen Jummah mosque","a":"Wangamam, Eragama","z":"Zone8","d":"Ampara","j":1,"g":"ChIJ2crCOdUR5ToRHJngD6msfa0"},
   {"s":"im","i":"7.200615,81.718712","la":7.2006148,"lo":81.718712,"n":"11A Village Jummah Mosque","z":"Zone8","d":"Ampara","j":1,"g":"ChIJeaceMu8R5ToR7Z7fJhGZJCc"},
@@ -2505,7 +2505,7 @@
   {"s":"gm","i":"ChIJaQzpSv4P4zoRKoSXVn9pYGw","la":7.104308,"lo":80.3365793,"n":"Al Aqsa Jumnah Masjidh Bulathkohupitiya","a":"Dedugala Rd, Bulathkohupitiya","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJ1_EunwFr4zoRpT_bf00oS2c","la":7.2543325,"lo":80.4565427,"n":"Al Falah Masjid","a":"Mawanella","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJYwXtfQAH4zoRe6-MxynSpXU","la":7.0001875,"lo":80.2215475,"n":"Al Fawziya Grand Jumu'ah Masjid","a":"Gurugalla","z":"Zone11","d":"Kegalle"},
-  {"s":"gm","i":"ChIJvQWrVW894zoRSCKkgvByl70","la":7.3438914,"lo":80.304784,"n":"Al Hudha Jumma Masjidh","z":"Zone11","d":"Kegalle","j":1},
+  {"s":"gm","i":"ChIJvQWrVW894zoRSCKkgvByl70","la":7.3438914,"lo":80.304784,"n":"Al Huda Jummah Masjid","a":"Polgahawela","z":"Zone6","d":"Kurunegala","j":1},
   {"s":"gm","i":"ChIJGfiUmVQV4zoR9T6YnGqWH84","la":7.2579894,"lo":80.4493757,"n":"Al Jafar Thakiya Masjid","a":"Walpodadeniya, Mawanella","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJ8-xcW6sU4zoR9ymFkHFcvmo","la":7.2556759,"lo":80.453896,"n":"Al Masjid Noora","a":"Road, Mawanella","z":"Zone11","d":"Kegalle"},
   {"s":"gm","i":"ChIJa0Mu3h1t4zoRl8UMgshrOg4","la":7.170353,"lo":80.511384,"n":"Al Mubarak Jummah Mosque, Wadiyathanna","a":"Mawanella - Hemmaththagama - Singhapitiya","z":"Zone11","d":"Kegalle","j":1},
