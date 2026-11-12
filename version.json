@@ -17,10 +17,10 @@
         },
         "lk.aimzcode.masjiddisplay": {
             "name": "Masjid Prayer Display",
-            "versionName": "1.0.9",
-            "versionCode": 11,
-            "apkUrl": "https://github.com/musabibnusiraj/rawmax-md-releases/releases/download/masjid-display-v1.0.9-b11/masjid-prayer-display.apk",
-            "sha256": "22c22b0871581ee11d6fe064fd7cbfe7eeade21e11ffb039b39f313146558534"
+            "versionName": "1.0.10",
+            "versionCode": 12,
+            "apkUrl": "https://github.com/musabibnusiraj/rawmax-md-releases/releases/download/masjid-display-v1.0.10-b12/masjid-prayer-display.apk",
+            "sha256": "0ed3f27e3ecdd1ade28112bbc5f74a06ef477e418adea75227b36ab54f106f8f"
         }
     }
 }
