@@ -1,0 +1,557 @@
+{
+  "version": "20261114",
+  "lastUpdated": "2026-11-14T11:00:00.000Z",
+  "rotationsCount": 4,
+  "prayers": {
+    "fajr": [
+      {
+        "rotation": 1,
+        "theme": "The Witnessed Recitation",
+        "source": {
+          "type": "Quran",
+          "surahName": "Al-Isra (الإسراء)",
+          "reference": "Surah 17, Verse 78"
+        },
+        "translations": {
+          "en": {
+            "title": "Fajr: The Light of Dawn 🌅",
+            "description": "Establish prayer at the decline of the sun... and [recite] the Quran at dawn. Indeed, the recitation of dawn is ever witnessed."
+          },
+          "ar": {
+            "title": "الفجر: نور الصباح 🌅",
+            "description": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ... وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا"
+          },
+          "ta": {
+            "title": "ஃபஜ்ர்: விடியலின் ஒளி 🌅",
+            "description": "சூரியன் சாய்வதிலிருந்து... ஃபஜ்ர் தொழுகையை நிலைநிறுத்துங்கள். நிச்சயமாக ஃபஜ்ர் தொழுகை (வானவர்களால்) சாட்சியாகக் கொள்ளப்படுகிறது."
+          },
+          "si": {
+            "title": "ෆජ්ර්: අරුණලු ආලෝකය 🌅",
+            "description": "සූර්යයා බැස යන මොහොතේ සිට... අරුණලු කාලයේ කුර්ආනය පාරායනය කරන්න. සැබැවින්ම අරුණලු කාලයේ පාරායනය කිරීම සාක්ෂි දරනු ලබයි."
+          }
+        }
+      },
+      {
+        "rotation": 2,
+        "theme": "Under Divine Protection",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Muslim",
+          "reference": "Hadith 657 (Book 5, Hadith 262)"
+        },
+        "translations": {
+          "en": {
+            "title": "Fajr: Under Allah's Protection 🛡️",
+            "description": "The Prophet (ﷺ) said: \"He who prays the Fajr prayer is under the protection of Allah.\""
+          },
+          "ar": {
+            "title": "الفجر: في ذمة الله 🛡️",
+            "description": "قال النبي ﷺ: \"مَنْ صَلَّى صَلَاةَ الصُّبْحِ فَهُوَ فِي ذِمَّةِ اللَّهِ.\""
+          },
+          "ta": {
+            "title": "ஃபஜ்ர்: அல்லாஹ்வின் பாதுகாப்பு 🛡️",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"யார் ஃபஜ்ர் தொழுகையைத் தொழுகிறாரோ அவர் அல்லாஹ்வின் பாதுகாப்பில் இருக்கிறார்.\""
+          },
+          "si": {
+            "title": "ෆජ්ර්: අල්ලාහ්ගේ ආරක්ෂාව යටතේ 🛡️",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"යමෙක් ෆජ්ර් යාඥාව ඉටු කරයිද, ඔහු අල්ලාහ්ගේ ආරක්ෂාව යටතේ සිටියි.\""
+          }
+        }
+      },
+      {
+        "rotation": 3,
+        "theme": "Better Than the Entire World",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Muslim",
+          "reference": "Hadith 725 (Book 6, Hadith 95)"
+        },
+        "translations": {
+          "en": {
+            "title": "Fajr: Better Than the World 💎",
+            "description": "The Prophet (ﷺ) said: \"The two rak'ahs of Fajr are better than this world and all that it contains.\""
+          },
+          "ar": {
+            "title": "الفجر: خير من الدنيا وما فيها 💎",
+            "description": "قال النبي ﷺ: \"رَكْعَتَا الْفَجْرِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا.\""
+          },
+          "ta": {
+            "title": "ஃபஜ்ர்: உலகை விடச் சிறந்தவை 💎",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"ஃபஜ்ரின் இரு ரக்அத்கள் இவ்வுலகத்தையும் அதில் உள்ள அனைத்தையும் விடச் சிறந்தவை.\""
+          },
+          "si": {
+            "title": "ෆජ්ර්: මුළු ලෝකයටම වඩා උතුම් 💎",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"ෆජ්ර් හි රක්අත් දෙක මෙලොවට සහ එහි ඇති සියල්ලටම වඩා උතුම් ය.\""
+          }
+        }
+      },
+      {
+        "rotation": 4,
+        "theme": "Complete Light on Judgment Day",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sunan Abu Dawud",
+          "reference": "Hadith 561 (Book 2, Hadith 71)"
+        },
+        "translations": {
+          "en": {
+            "title": "Fajr: Light on Judgment Day 💡",
+            "description": "The Prophet (ﷺ) said: \"Give glad tidings to those who walk in the darkness to the mosques of complete light on the Day of Resurrection.\""
+          },
+          "ar": {
+            "title": "الفجر: النور التام يوم القيامة 💡",
+            "description": "قال النبي ﷺ: \"بَشِّرِ الْمَشَّائِينَ فِي الظُّلَمِ إِلَى الْمَسَاجِدِ بِالنُّورِ التَّامِّ يَوْمَ الْقِيَامَةِ.\""
+          },
+          "ta": {
+            "title": "ஃபஜ்ர்: மறுமை நாளின் பரிபூரண ஒளி 💡",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"இருளில் பள்ளிவாசல்களுக்கு நடப்பவர்களுக்கு மறுமை நாளில் பரிபூரண ஒளி கிடைக்கும் என்று நன்மாராயம் கூறுங்கள்.\""
+          },
+          "si": {
+            "title": "ෆජ්ර්: විනිශ්චය දිනයේ පරිපූර්ණ ආලෝකය 💡",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"අඳුරේ පල්ලි කරා යන අයට විනිශ්චය දිනයේ පරිපූර්ණ ආලෝකය ලැබෙන බවට සුබාරංචි දෙන්න.\""
+          }
+        }
+      }
+    ],
+    "dhuhr": [
+      {
+        "rotation": 1,
+        "theme": "Remembrance Amidst Busyness",
+        "source": {
+          "type": "Quran",
+          "surahName": "Al-Munafiqun (المنافقون)",
+          "reference": "Surah 63, Verse 9"
+        },
+        "translations": {
+          "en": {
+            "title": "Dhuhr: Midday Sanctuary 🌿",
+            "description": "O you who have believed, let not your wealth and your children divert you from the remembrance of Allah."
+          },
+          "ar": {
+            "title": "الظهر: الذكر وسط مشاغل الحياة 🌿",
+            "description": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ"
+          },
+          "ta": {
+            "title": "லுஹ்ர்: பணிச்சுமையிலும் இறைநினைவு 🌿",
+            "description": "நம்பிக்கையாளர்களே! உங்களின் பொருள்களும், உங்களின் சந்ததிகளும் அல்லாஹ்வின் நினைவைவிட்டு உங்களைத் திசைதிருப்ப வேண்டாம்."
+          },
+          "si": {
+            "title": "ධුහ්ර්: කාර්යබහුලත්වය මැද සිහිපත් කිරීම 🌿",
+            "description": "විශ්වාස කළාවූයෙනි! ඔබේ ධනය සහ ඔබේ දරුවන් අල්ලාහ්ව සිහිපත් කිරීමෙන් ඔබව වෙනත් මංවලට යොමු නොකළ යුතුය."
+          }
+        }
+      },
+      {
+        "rotation": 2,
+        "theme": "Gates of Heaven Are Opened",
+        "source": {
+          "type": "Hadith",
+          "collection": "Jami' at-Tirmidhi",
+          "reference": "Hadith 478 (Book 3, Hadith 40)"
+        },
+        "translations": {
+          "en": {
+            "title": "Dhuhr: Gates of Heaven Open 🚪",
+            "description": "The Prophet (ﷺ) said: \"This is an hour at which the gates of heaven are opened, and I love that a good deed of mine should ascend during it.\""
+          },
+          "ar": {
+            "title": "الظهر: ساعة تفتح فيها أبواب السماء 🚪",
+            "description": "قال النبي ﷺ: \"إِنَّهَا سَاعَةٌ تُفْتَحُ فِيهَا أَبْوَابُ السَّمَاءِ، فَأُحِبُّ أَنْ يَصْعَدَ لِي فِيهَا عَمَلٌ صَالِحٌ.\""
+          },
+          "ta": {
+            "title": "லுஹ்ர்: வானத்தின் வாசல்கள் திறக்கப்படும் நேரம் 🚪",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"இது வானத்தின் வாசல்கள் திறக்கப்படும் நேரமாகும்; இதில் எனது நற்செயல் மேலே உயர்த்தப்படுவதை நான் விரும்புகிறேன்.\""
+          },
+          "si": {
+            "title": "ධුහ්ර්: ස්වර්ගයේ දොරටු විවෘත වන හෝරාව 🚪",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"මෙය ස්වර්ගයේ දොරටු විවෘත වන හෝරාවකි, එම කාලය තුළ මගේ යහපත් ක්‍රියාවක් ඉහළට නැඟීමට මම ප්‍රිය කරමි.\""
+          }
+        }
+      },
+      {
+        "rotation": 3,
+        "theme": "Consistency Beloved to Allah",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 6465 | Sahih Muslim 783"
+        },
+        "translations": {
+          "en": {
+            "title": "Dhuhr: Consistent Devotion ☀️",
+            "description": "Pause your daily tasks. The Prophet (ﷺ) said: \"The most beloved of deeds to Allah are those that are most consistent, even if small.\""
+          },
+          "ar": {
+            "title": "الظهر: أحب الأعمال إلى الله أدومها ☀️",
+            "description": "توقف عن مشاغل يومك. قال النبي ﷺ: \"أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ.\""
+          },
+          "ta": {
+            "title": "லுஹ்ர்: அல்லாஹ்வுக்கு விருப்பமான செயல் ☀️",
+            "description": "உங்களது வேலைகளை நிறுத்திவிட்டு இறைவனை நாடுங்கள். நபி (ஸல்) கூறினார்கள்: \"அல்லாஹ்வுக்கு மிகவும் விருப்பமான நற்செயல்கள் குறைவாக இருந்தாலும் தொடர்ந்து செய்பவையே.\""
+          },
+          "si": {
+            "title": "ධුහ්ර්: අල්ලාහ්ට වඩාත් ප්‍රියජනක ක්‍රියාව ☀️",
+            "description": "ඔබේ දෛනික කටයුතුවලින් විරාමයක් ගන්න. නබිතුමා (සල්) ප්‍රකාශ කළහ: \"අල්ලාහ්ට වඩාත්ම ප්‍රියජනක යහපත් ක්‍රියා කුඩා වුවද අඛණ්ඩව කරන ඒවාය.\""
+          }
+        }
+      },
+      {
+        "rotation": 4,
+        "theme": "Relief from the Scorching Heat",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 536 | Sahih Muslim 615"
+        },
+        "translations": {
+          "en": {
+            "title": "Dhuhr: Coolness for the Soul ❄️",
+            "description": "The Prophet (ﷺ) taught that cooling down the midday heat with Dhuhr prayer protects the believer from the intense heat of Hellfire."
+          },
+          "ar": {
+            "title": "الظهر: برد وطمأنينة للروح ❄️",
+            "description": "قال النبي ﷺ: \"أَبْرِدُوا بِالظُّهْرِ، فَإِنَّ شِدَّةَ الْحَرِّ مِنْ فَيْحِ جَهَنَّمَ.\""
+          },
+          "ta": {
+            "title": "லுஹ்ர்: ஆன்மாவிற்குக் குளிர்ச்சி ❄️",
+            "description": "\"கடும் வெப்பம் நரகத்தின் பெருமூச்சிலிருந்து உண்டாகிறது; எனவே லுஹ்ர் தொழுகையை வெப்பம் தணிந்தபின் தொழுங்கள்\" என நபி (ஸல்) வழிகாட்டினார்கள்."
+          },
+          "si": {
+            "title": "ධුහ්ර්: ආත්මයට සිසිලසක් ❄️",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"දැඩි උණුසුම නිරයේ උණුසුමෙන් පැමිණෙන බැවින් උණුසුම අඩු වූ විට ධුහ්ර් යාඥාව ඉටු කරන්න.\""
+          }
+        }
+      }
+    ],
+    "asr": [
+      {
+        "rotation": 1,
+        "theme": "Guarding the Middle Prayer",
+        "source": {
+          "type": "Quran",
+          "surahName": "Al-Baqarah (البقرة)",
+          "reference": "Surah 2, Verse 238"
+        },
+        "translations": {
+          "en": {
+            "title": "Asr: The Guarded Middle Prayer ⛅",
+            "description": "Guard strictly your prayers, especially the middle prayer [Asr], and stand before Allah with devotion."
+          },
+          "ar": {
+            "title": "العصر: المحافظة على الصلاة الوسطى ⛅",
+            "description": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ"
+          },
+          "ta": {
+            "title": "அஸர்: பாதுகாக்கப்பட வேண்டிய நடுத்தொழுகை ⛅",
+            "description": "தொழுகைகளையும், குறிப்பாக நடுத் தொழுகையையும் (அஸர்) பேணிப் பாதுகாத்துக் கொள்ளுங்கள்; மேலும் அல்லாஹ்வுக்காகக் கட்டுப்பட்டு நில்லுங்கள்."
+          },
+          "si": {
+            "title": "අස්ර්: ආරක්ෂා කළ යුතු මධ්‍යම යාඥාව ⛅",
+            "description": "යාඥාවන් සහ විශේෂයෙන්ම මධ්‍යම යාඥාව (අස්ර්) දැඩි ලෙස ආරක්ෂා කරගන්න. තවද අල්ලාහ් ඉදිරියේ භක්තියෙන් නැගී සිටින්න."
+          }
+        }
+      },
+      {
+        "rotation": 2,
+        "theme": "Protecting Your Deeds and Family",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 552 | Sahih Muslim 626"
+        },
+        "translations": {
+          "en": {
+            "title": "Asr: Do Not Miss This Treasure ⏳",
+            "description": "The Prophet (ﷺ) said: \"Whoever misses the Asr prayer, it is as if he has lost his family and property.\""
+          },
+          "ar": {
+            "title": "العصر: احذر من فواتها ⏳",
+            "description": "قال النبي ﷺ: \"الَّذِي تَفُوتُهُ صَلَاةُ الْعَصْرِ كَأَنَّمَا وُتِرَ أَهْلَهُ وَمَالَهُ.\""
+          },
+          "ta": {
+            "title": "அஸர்: பேரிழப்பைத் தவிர்ப்போம் ⏳",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"யார் அஸர் தொழுகையைத் தவறவிடுகிறாரோ, அவர் தனது குடும்பத்தையும் சொத்தையும் இழந்தவரைப் போலாவார்.\""
+          },
+          "si": {
+            "title": "අස්ර්: මහා පාඩුවෙන් ආරක්ෂා වන්න ⏳",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"යමෙක් අස්ර් යාඥාව මගහැර ගනීද, ඔහු තම පවුල සහ දේපළ අහිමි වූවකු වැනිය.\""
+          }
+        }
+      },
+      {
+        "rotation": 3,
+        "theme": "Shift Change of the Angels",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 555 | Sahih Muslim 632"
+        },
+        "translations": {
+          "en": {
+            "title": "Asr: Witnessed by Angels 🕊️",
+            "description": "The Prophet (ﷺ) said: \"Angels take turns among you by night and by day, and they all assemble at the Fajr and Asr prayers.\""
+          },
+          "ar": {
+            "title": "العصر: اجتماع ملائكة الليل والنهار 🕊️",
+            "description": "قال النبي ﷺ: \"يَتَعَاقَبُونَ فِيكُمْ مَلَائِكَةٌ بِاللَّيْلِ وَمَلَائِكَةٌ بِالنَّهَارِ، وَيَجْتَمِعُونَ فِي صَلَاةِ الْفَجْرِ وَصَلَاةِ الْعَصْرِ.\""
+          },
+          "ta": {
+            "title": "அஸர்: வானவர்கள் ஒன்றுகூடும் வேளை 🕊️",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"இரவு நேரத்து வானவர்களும் பகல் நேரத்து வானவர்களும் மாறி மாறி உங்களிடம் வருகிறார்கள்; அவர்கள் ஃபஜ்ர் மற்றும் அஸர் தொழுகைகளில் ஒன்றுகூடுகிறார்கள்.\""
+          },
+          "si": {
+            "title": "අස්ර්: දේවදූතයන් හමුවන වේලාව 🕊️",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"රාත්‍රී දේවදූතයන් සහ දවල් දේවදූතයන් ඔබ අතර මාරුවෙන් මාරුවට පැමිණෙන අතර, ඔවුන් ෆජ්ර් සහ අස්ර් යාඥා වලදී එකට රැස්වෙති.\""
+          }
+        }
+      },
+      {
+        "rotation": 4,
+        "theme": "Guarantee of Paradise",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 574 | Sahih Muslim 635"
+        },
+        "translations": {
+          "en": {
+            "title": "Asr: Key to Paradise 🌟",
+            "description": "The Prophet (ﷺ) said: \"Whoever prays the two cool prayers [Fajr and Asr] will enter Paradise.\""
+          },
+          "ar": {
+            "title": "العصر: طريقك إلى الجنة 🌟",
+            "description": "قال النبي ﷺ: \"مَنْ صَلَّى الْبَرْدَيْنِ دَخَلَ الْجَنَّةَ.\""
+          },
+          "ta": {
+            "title": "அஸர்: சுவனத்திற்கான திறவுகோல் 🌟",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"குளிர்ந்த இரண்டு தொழுகைகளைத் தொழுபவர் (ஃபஜ்ர் மற்றும் அஸர்) சுவனத்தில் நுழைவார்.\""
+          },
+          "si": {
+            "title": "අස්ර්: ස්වර්ගයට යතුර 🌟",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"සීතල යාඥා දෙක (ෆජ්ර් සහ අස්ර්) ඉටු කරන තැනැත්තා ස්වර්ගයට ඇතුළු වනු ඇත.\""
+          }
+        }
+      }
+    ],
+    "maghrib": [
+      {
+        "rotation": 1,
+        "theme": "Glorifying Allah Before Sunset",
+        "source": {
+          "type": "Quran",
+          "surahName": "Ta-Ha (طه)",
+          "reference": "Surah 20, Verse 130"
+        },
+        "translations": {
+          "en": {
+            "title": "Maghrib: Gratitude at Sunset 🌆",
+            "description": "And exalt [Allah] with praise of your Lord before the rising of the sun and before its setting."
+          },
+          "ar": {
+            "title": "المغرب: التسبيح بحمد الله عند الغروب 🌆",
+            "description": "وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا"
+          },
+          "ta": {
+            "title": "மக்ரிப்: சூரிய அஸ்தமனத்தில் இறைப்புகழ் 🌆",
+            "description": "சூரிய உதயத்திற்கு முன்பும், அது மறைவதற்கு முன்பும் உமது இறைவனின் புகழைக் கூறி அவனைத் துதியுங்கள்."
+          },
+          "si": {
+            "title": "මග්රිබ්: හිරු බැස යන විට ප්‍රශංසා කිරීම 🌆",
+            "description": "හිරු නැඟීමට පෙර සහ එය බැසීමට පෙර ඔබේ දෙවියන්ට ප්‍රශංසා කරමින් උන්වහන්සේව මහිමයට පත් කරන්න."
+          }
+        }
+      },
+      {
+        "rotation": 2,
+        "theme": "Hastening to Perform Maghrib",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sunan Abu Dawud",
+          "reference": "Hadith 418 (Book 2, Hadith 28)"
+        },
+        "translations": {
+          "en": {
+            "title": "Maghrib: Hasten to Goodness ⏱️",
+            "description": "The Prophet (ﷺ) said: \"My Ummah will continue to remain upon goodness so long as they do not delay the Maghrib prayer until the stars appear.\""
+          },
+          "ar": {
+            "title": "المغرب: التعجيل بالصلاة خير ⏱️",
+            "description": "قال النبي ﷺ: \"لَا تَزَالُ أُمَّتِي بِخَيْرٍ مَا لَمْ يُؤَخِّرُوا الْمَغْرِبَ حَتَّى تَشْتَبِكَ النُّجُومُ.\""
+          },
+          "ta": {
+            "title": "மக்ரிப்: நன்மையை நோக்கி விரைந்திடுங்கள் ⏱️",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"நட்சத்திரங்கள் நெருக்கமாகத் தெரியும் வரை மக்ரிப் தொழுகையைத் தாமதப்படுத்தாத வரை என் சமுதாயம் நன்மையின் மீதே இருக்கும்.\""
+          },
+          "si": {
+            "title": "මග්රිබ්: යහපතට ඉක්මන් වන්න ⏱️",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"තරු පෙනෙන තුරු මග්රිබ් යාඥාව ප්‍රමාද නොකරන තාක් කල් මගේ උම්මාව යහපතෙහි රැඳී සිටිනු ඇත.\""
+          }
+        }
+      },
+      {
+        "rotation": 3,
+        "theme": "Protecting Family at Dusk",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 5623 | Sahih Muslim 2012"
+        },
+        "translations": {
+          "en": {
+            "title": "Maghrib: Evening Protection 🌙",
+            "description": "The Prophet (ﷺ) advised gathering children indoors when the sun sets and mentioning the name of Allah as night falls."
+          },
+          "ar": {
+            "title": "المغرب: تحصين البيت والأبناء 🌙",
+            "description": "قال النبي ﷺ: \"إِذَا كَانَ جُنْحُ اللَّيْلِ فَكُفُّوا صِبْيَانَكُمْ، فَإِنَّ الشَّيَاطِينَ تَنْتَشِرُ حِينَئِذٍ.\""
+          },
+          "ta": {
+            "title": "மக்ரிப்: மாலை நேரப் பாதுகாப்பு 🌙",
+            "description": "\"இரவின் ஆரம்ப நேரம் வந்தால் உங்கள் குழந்தைகளை வெளியில் விடாமல் தடுத்துக் கொள்ளுங்கள்\" என நபி (ஸல்) வழிகாட்டினார்கள்."
+          },
+          "si": {
+            "title": "මග්රිබ්: සවස් කාලයේ රැකවරණය 🌙",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"රාත්‍රිය උදාවන විට ඔබේ දරුවන් නිවස තුළ රඳවා ගන්න.\""
+          }
+        }
+      },
+      {
+        "rotation": 4,
+        "theme": "Immediate Response to Sunset",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 560 | Sahih Muslim 637"
+        },
+        "translations": {
+          "en": {
+            "title": "Maghrib: Closing the Day in Prayer 🏡",
+            "description": "The Companions reported: \"We used to pray Maghrib with the Prophet (ﷺ), and then one of us could still see where his arrow fell.\""
+          },
+          "ar": {
+            "title": "المغرب: المبادرة فور الغروب 🏡",
+            "description": "قال الصحابة رضي الله عنهم: \"كُنَّا نُصَلِّي الْمَغْرِبَ مَعَ النَّبِيِّ ﷺ فَيَرْجِعُ أَحَدُنَا وَإِنَّهُ لَيُبْصِرُ مَوَاقِعَ نَبْلِهِ.\""
+          },
+          "ta": {
+            "title": "மக்ரிப்: தாமதமின்றித் தொழுவோம் 🏡",
+            "description": "\"நாங்கள் நபி (ஸல்) அவர்களுடன் மக்ரிப் தொழுதுவிட்டுத் திரும்பும்போது எங்களின் அம்பு விழும் இடத்தைப் பார்க்கும் அளவுக்கு வெளிச்சம் இருக்கும்\" என நபித்தோழர்கள் அறிவிக்கிறார்கள்."
+          },
+          "si": {
+            "title": "මග්රිබ්: ප්‍රමාද නොවී යාඥා කරන්න 🏡",
+            "description": "අපි නබිතුමා (සල්) සමඟ මග්රිබ් යාඥාව ඉටු කර ආපසු යන විට අපගේ ඊතලය වැටෙන ස්ථානය පවා දැකගත හැකි තරම් ආලෝකය තිබුණි."
+          }
+        }
+      }
+    ],
+    "isha": [
+      {
+        "rotation": 1,
+        "theme": "Tranquility of Hearts",
+        "source": {
+          "type": "Quran",
+          "surahName": "Ar-Ra'd (الرعد)",
+          "reference": "Surah 13, Verse 28"
+        },
+        "translations": {
+          "en": {
+            "title": "Isha: Peace for the Heart 🌌",
+            "description": "\"Unquestionably, by the remembrance of Allah hearts are assured.\" Close your day with serenity and gratitude."
+          },
+          "ar": {
+            "title": "العشاء: طمأنينة القلب قبل النوم 🌌",
+            "description": "\"أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ\" — اختم يومك بالسكينة والطمأنينة."
+          },
+          "ta": {
+            "title": "இஷா: உள்ளங்களுக்கு அமைதி 🌌",
+            "description": "\"அறிந்துகொள்ளுங்கள்; அல்லாஹ்வின் நினைவைக் கொண்டுதான் உள்ளங்கள் அமைதி பெறுகின்றன.\" உங்களது நாளை மனநிறைவோடு நிறைவு செய்யுங்கள்."
+          },
+          "si": {
+            "title": "ඉෂා: හදවතට සැනසීම 🌌",
+            "description": "\"සැබැවින්ම, අල්ලාහ්ව සිහිපත් කිරීමෙන් පමණක් හදවත් සැනසීමට පත්වේ.\" සාමයෙන් ඔබේ දිනය අවසන් කරන්න."
+          }
+        }
+      },
+      {
+        "rotation": 2,
+        "theme": "Standing Half the Night in Prayer",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Muslim",
+          "reference": "Hadith 656 (Book 5, Hadith 260)"
+        },
+        "translations": {
+          "en": {
+            "title": "Isha: Reward of Half the Night 🌙",
+            "description": "The Prophet (ﷺ) said: \"He who prays Isha in congregation, it is as if he stood in prayer for half of the night.\""
+          },
+          "ar": {
+            "title": "العشاء: أجر قيام نصف الليل 🌙",
+            "description": "قال النبي ﷺ: \"مَنْ صَلَّى الْعِشَاءَ فِي جَمَاعَةٍ فَكَأَنَّمَا قَامَ نِصْفَ اللَّيْلِ.\""
+          },
+          "ta": {
+            "title": "இஷா: பாதி இரவு நின்று வணங்கிய நற்கூலி 🌙",
+            "description": "நபி (ஸல்) அவர்கள் கூறினார்கள்: \"யார் இஷா தொழுகையை ஜமாஅத்தாகத் தொழுகிறாரோ, அவர் பாதி இரவில் நின்று வணங்கியவரைப் போலாவார்.\""
+          },
+          "si": {
+            "title": "ඉෂා: අඩ රැයක නමස්කාරයේ කුසලය 🌙",
+            "description": "නබිතුමා (සල්) ප්‍රකාශ කළහ: \"යමෙක් ඉෂා යාඥාව සාමූහිකව ඉටු කරයිද, ඔහු අඩ රැයක් පුරා යාඥා කළ අයකු වැනිය.\""
+          }
+        }
+      },
+      {
+        "rotation": 3,
+        "theme": "Distinguishing True Faith",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari & Sahih Muslim",
+          "reference": "Sahih Al-Bukhari 657 | Sahih Muslim 651"
+        },
+        "translations": {
+          "en": {
+            "title": "Isha: Sincerity in Darkness ✨",
+            "description": "The Prophet (ﷺ) taught that guarding Isha and Fajr is the ultimate sign of sincere faith, carrying immense hidden reward."
+          },
+          "ar": {
+            "title": "العشاء: علامة الإيمان الصادق ✨",
+            "description": "المحافظة على صلاتي العشاء والفجر في وقتهما من أعظم علامات الإيمان الصادق والأجر العظيم."
+          },
+          "ta": {
+            "title": "இஷா: உண்மையான இறைநம்பிக்கையின் அடையாளம் ✨",
+            "description": "இஷா மற்றும் ஃபஜ்ர் தொழுகைகளைப் பேணித் தொழுவது உண்மையான இறைநம்பிக்கையின் அடையாளமாகும்; அதில் மகத்தான நற்கூலி உள்ளது."
+          },
+          "si": {
+            "title": "ඉෂා: සැබෑ විශ්වාසයේ සලකුණ ✨",
+            "description": "ඉෂා සහ ෆජ්ර් යාඥා ආරක්ෂා කිරීම සැබෑ විශ්වාසයේ උතුම්ම සලකුණ වන අතර එයට අප්‍රමාණ කුසල් හිමිවේ."
+          }
+        }
+      },
+      {
+        "rotation": 4,
+        "theme": "Sleeping Under Divine Care",
+        "source": {
+          "type": "Hadith",
+          "collection": "Sahih Al-Bukhari",
+          "reference": "Hadith 6312 (Book 80, Hadith 12)"
+        },
+        "translations": {
+          "en": {
+            "title": "Isha: Rest in His Care 🛏️",
+            "description": "After Isha, when retiring to bed, the Prophet (ﷺ) would say: \"O Allah, in Your name I live and die.\""
+          },
+          "ar": {
+            "title": "العشاء: النوم في رعاية الله 🛏️",
+            "description": "كان النبي ﷺ إذا أوى إلى فراشه بعد العشاء قال: \"اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا.\""
+          },
+          "ta": {
+            "title": "இஷா: அல்லாஹ்வின் பாதுகாப்பில் ஓய்வு 🛏️",
+            "description": "இஷா தொழுகைக்குப் பின் படுக்கைக்குச் செல்லும்போது நபி (ஸல்) அவர்கள், \"யா அல்லாஹ்! உன் பெயரால் நான் மரணிக்கிறேன், உயிர்ப்பிக்கப்படுகிறேன்\" என்று பிரார்த்திப்பார்கள்."
+          },
+          "si": {
+            "title": "ඉෂා: උන්වහන්සේගේ රැකවරණය යටතේ විවේකය 🛏️",
+            "description": "ඉෂා යාඥාවෙන් පසු නබිතුමා (සල්) නින්දට යන විට \"අල්ලාහ් මැනවී, ඔබේ නාමයෙන් මම මිය යමි, ජීවත් වෙමි\" යැයි ප්‍රාර්ථනා කළහ."
+          }
+        }
+      }
+    ]
+  }
+}

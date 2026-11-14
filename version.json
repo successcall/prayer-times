@@ -4,6 +4,7 @@
     "forceUpdateBelowBuild": 88,
     "masjidMapVersion": "202611050212",
     "dataV2Version": "20261020",
+    "prayerNotificationsVersion": "20261114",
     "apps": {
         "me.musab.successcall": {
             "name": "Success Call",
