@@ -22,6 +22,13 @@
             "versionCode": 39,
             "apkUrl": "https://github.com/musabibnusiraj/rawmax-md-releases/releases/download/masjid-display-v1.0.39-b39/masjid-prayer-display.apk",
             "sha256": "0b8df058edff46ca48eb3964ecde68663ccca57bf725ebc24e40d9fcbbd004f2"
+        },
+        "com.aimzcode.successcalldisplay": {
+            "name": "Success Call Display",
+            "versionName": "1.2.0",
+            "versionCode": 4,
+            "apkUrl": "https://github.com/successcall/successcall.github.io/releases/download/scd-v1.2.0-b4/success-call-display-1.2.0-android5.0-to-16.apk",
+            "sha256": "c05570e392156ff827f69c1c3ed7355288342424af371962a9c35b7982aa21b7"
         }
     }
 }
