@@ -25,10 +25,10 @@
         },
         "com.aimzcode.successcalldisplay": {
             "name": "Success Call Display",
-            "versionName": "1.2.5",
-            "versionCode": 9,
-            "apkUrl": "https://github.com/successcall/successcall.github.io/releases/download/scd-v1.2.5-b9/success-call-display-1.2.5-android5.0-to-16.apk",
-            "sha256": "758210f5eb2e800518f3ae19d16a36d030b47b843aebcdd049e07ad5f76de9fe",
+            "versionName": "1.2.6",
+            "versionCode": 10,
+            "apkUrl": "https://github.com/successcall/successcall.github.io/releases/download/scd-v1.2.6-b10/success-call-display-1.2.6-android5.0-to-16.apk",
+            "sha256": "d4d866bc854210525c436bb9a2121ab7d72075676c0e79dcfcc7c91d453052cb",
             "latestApkUrl": "https://github.com/successcall/successcall.github.io/releases/download/scd-latest/success-call-display.apk"
         }
     }
